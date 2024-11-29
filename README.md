@@ -39,7 +39,7 @@ This project is a dynamic web page that demonstrates various web development ski
 
 ## Author
 
-Malik Sadaqa
+Yara Osama
 
 ## Additional Features
 
